@@ -1,0 +1,12 @@
+[
+    {
+      "id": "mirador-del-valle",
+      "name": "Mirador del Valle",
+      "description": "Vista panorámica del valle ideal al amanecer."
+    },
+    {
+      "id": "museo-mineria",
+      "name": "Museo de la Minería",
+      "description": "Historia minera de la comarca con maquetas interactivas."
+    }
+  ]
