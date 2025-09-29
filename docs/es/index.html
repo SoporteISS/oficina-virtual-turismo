@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Oficina Virtual de Turismo - Valle Verde</title>
+  <meta name="description" content="Descubre qué ver, hacer, dormir y comer en Valle Verde. Agenda, rutas y chatbot turístico.">
+  <link rel="canonical" href="https://soporteiss.github.io/oficina-virtual-turismo/docs/es/">
+  <link rel="alternate" hreflang="en" href="https://soporteiss.github.io/oficina-virtual-turismo/docs/en/">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Valle Verde</h1>
+      <nav>
+        <ul>
+          <li><a href="../es/">Inicio</a></li>
+          <li><a href="../es/que-ver">Qué ver</a></li>
+          <li><a href="../es/que-hacer">Qué hacer</a></li>
+          <li><a href="../es/agenda">Agenda</a></li>
+          <li><a href="../es/donde-dormir">Dónde dormir</a></li>
+          <li><a href="../es/donde-comer">Dónde comer</a></li>
+          <li><a href="../es/contacto">Contacto</a></li>
+        </ul>
+      </nav>
+      <div class="lang-switch">
+        <a href="../en/">EN</a> | <strong>ES</strong>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Bienvenido a Valle Verde</h2>
+      <p>Naturaleza, cultura y gastronomía en un solo destino.</p>
+      <form onsubmit="globalSearch(event)">
+        <input type="search" id="global-search" placeholder="Buscar POIs, eventos...">
+        <button type="submit">Buscar</button>
+      </form>
+    </section>
+
+    <section>
+      <h2>Destacados</h2>
+      <div class="cards" id="featured-cards"></div>
+    </section>
+
+    <section>
+      <h2>Chatbot Turístico</h2>
+      <div id="chat-container">
+        <div id="chat-messages"></div>
+        <form onsubmit="chatbotSend(event)">
+          <input type="text" id="chat-input" placeholder="Pregunta algo..." required>
+          <button type="submit">Enviar</button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Oficina Virtual de Turismo Valle Verde</p>
+  </footer>
+
+  <script src="../assets/js/app.js"></script>
+</body>
+</html>
