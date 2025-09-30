@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "main": "Main navigation",
+    "home": "Home",
+    "accommodation": "Accommodation",
+    "activities": "Activities",
+    "routes": "Routes",
+    "gastronomy": "Gastronomy",
+    "events": "Events",
+    "map": "Map",
+    "contact": "Contact",
+    "toggleMenu": "Toggle menu",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Discover Central Mountain Asturias",
+    "subtitle": "A unique destination where nature, heritage and tradition meet in perfect harmony",
+    "backgroundAlt": "Panoramic view of the Asturian mountains",
+    "cta": {
+      "explore": "Explore Destination",
+      "map": "View Map"
+    },
+    "stats": {
+      "municipalities": "Municipalities",
+      "routes": "Routes",
+      "accommodations": "Accommodations",
+      "activities": "Activities"
+    }
+  },
+  "quickActions": {
+    "title": "What are you interested in doing?",
+    "subtitle": "Explore everything Central Mountain Asturias has to offer",
+    "accommodation": "Accommodation",
+    "accommodationDesc": "Find the perfect place for your stay",
+    "routes": "Hiking Routes",
+    "routesDesc": "Discover unique trails and spectacular landscapes",
+    "gastronomy": "Gastronomy",
+    "gastronomyDesc": "Authentic flavors of Asturian tradition",
+    "activities": "Activities",
+    "activitiesDesc": "Unique experiences in nature",
+    "events": "Events",
+    "eventsDesc": "Local festivals, culture and traditions",
+    "map": "Interactive Map",
+    "mapDesc": "Locate all resources and services"
+  },
+  "weather": {
+    "title": "Weather Conditions",
+    "now": "Now",
+    "feelsLike": "Feels like",
+    "wind": "Wind",
+    "humidity": "Humidity",
+    "forecast": "Next days",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "day-after": "Day after tomorrow",
+    "recommendation": "Ideal conditions for outdoor activities"
+  },
+  "chatbot": {
+    "title": "Tourism Assistant",
+    "toggle": "Open chat",
+    "close": "Close chat",
+    "placeholder": "Type your query...",
+    "send": "Send",
+    "welcome": "Hello! I'm your virtual tourism assistant. How can I help you today?",
+    "actionExecuted": "Executing action: {{action}}",
+    "suggestions": {
+      "routes": "What hiking routes do you recommend?",
+      "accommodation": "Looking for accommodation",
+      "events": "What events are coming up?",
+      "weather": "How's the weather?",
+      "easyRoutes": "Easy routes",
+      "difficultRoutes": "Difficult routes",
+      "familyRoutes": "Family routes",
+      "ruralHotels": "Rural hotels",
+      "apartments": "Apartments",
+      "camping": "Campsites",
+      "weekendWeather": "Weekend weather",
+      "clothingAdvice": "What clothes to wear?",
+      "contact": "Contact information"
+    },
+    "responses": {
+      "routes": "I recommend several routes according to your level. Do you prefer something easy, moderate or challenging?",
+      "accommodation": "We have excellent accommodation options throughout the area. Are you looking for something specific?",
+      "events": "There are several interesting upcoming events. Are you interested in any particular theme?",
+      "weather": "Current conditions are favorable for outdoor activities. Are you planning any specific activity?",
+      "default": "I understand you're looking for information about Central Mountain Asturias. Can you be more specific about what interests you?"
+    },
+    "actions": {
+      "viewRoutes": "View routes",
+      "viewAccommodation": "View accommodation",
+      "viewEvents": "View events"
+    }
+  },
+  "footer": {
+    "description": "Discover the essence of Asturias in the Central Mountain, where every trail tells a story.",
+    "quickLinks": "Quick links",
+    "legal": "Legal",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "accessibility": "Accessibility",
+    "cookies": "Cookie Policy",
+    "rights": "All rights reserved",
+    "euFunding": "Project funded by the European Union - NextGenerationEU"
+  },
+  "accessibility": {
+    "skipToContent": "Skip to main content"
+  },
+  "cookies": {
+    "title": "Cookie Settings",
+    "description": "We use cookies to improve your browsing experience and offer you personalized content. You can accept all cookies or customize your preferences.",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all",
+    "customize": "Customize",
+    "settings": "Cookie Settings",
+    "close": "Close",
+    "back": "Back",
+    "required": "Required",
+    "savePreferences": "Save preferences",
+    "cancel": "Cancel",
+    "necessary": {
+      "title": "Necessary Cookies",
+      "description": "Essential for basic website functionality. Cannot be disabled."
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the website."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to show relevant ads and measure campaign effectiveness."
+    },
+    "personalization": {
+      "title": "Personalization Cookies",
+      "description": "Allow remembering your preferences to offer a personalized experience."
+    }
+  },
+  "accessibility": {
+    "toolbar": {
+      "title": "Accessibility Tools",
+      "highContrast": "High contrast",
+      "largeText": "Large text",
+      "fontSize": "Font size",
+      "lineHeight": "Line spacing",
+      "reducedMotion": "Reduce animations",
+      "keyboardNavigation": "Enhanced navigation",
+      "audioDescriptions": "Audio descriptions",
+      "reset": "Reset settings"
+    },
+    "announcements": {
+      "settingChanged": "Accessibility setting updated",
+      "pageLoaded": "Page loaded",
+      "navigationChanged": "Navigation updated"
+    }
+  },
+  "kiosk": {
+    "title": "Central Mountain Asturias",
+    "welcome": "Welcome to Central Mountain Asturias",
+    "subtitle": "Explore everything this unique destination has to offer",
+    "selectOption": "What would you like to discover?",
+    "touchToExplore": "Touch any option to begin",
+    "inactivity": {
+      "title": "Are you still there?",
+      "message": "The screen will return to the start in:",
+      "continue": "Continue Exploring"
+    }
+  }
+}

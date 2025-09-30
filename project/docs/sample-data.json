@@ -1,0 +1,516 @@
+{
+  "accommodations": [
+    {
+      "id": "hotel-rural-los-picos",
+      "name": "Hotel Rural Los Picos",
+      "type": "hotel-rural",
+      "description": "Encantador hotel rural con vistas panorámicas a los Picos de Europa. Ubicado en el corazón de Arenas de Cabrales, ofrece la perfecta combinación entre confort moderno y tradición asturiana. Todas las habitaciones cuentan con vistas a la montaña y están decoradas con elementos de la artesanía local.",
+      "shortDescription": "Hotel rural con vistas espectaculares a los Picos de Europa",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg",
+          "alt": "Vista exterior del Hotel Rural Los Picos",
+          "caption": "Fachada tradicional asturiana con vistas a los Picos"
+        }
+      ],
+      "location": {
+        "address": "Calle Real, 15, 33554 Arenas de Cabrales, Asturias",
+        "coordinates": {
+          "lat": 43.3472,
+          "lng": -4.8318
+        },
+        "municipality": "cabrales"
+      },
+      "contact": {
+        "phone": "+34 985 123 456",
+        "email": "info@hotelrurallospicos.es",
+        "website": "https://hotelrurallospicos.es"
+      },
+      "amenities": ["wifi", "parking", "restaurant", "garden", "heating", "tv"],
+      "services": [
+        "Desayuno continental",
+        "Restaurante con cocina tradicional",
+        "Servicio de guía local",
+        "Parking gratuito",
+        "WiFi en todas las instalaciones"
+      ],
+      "capacity": 4,
+      "rooms": 12,
+      "priceRange": {
+        "min": 85,
+        "max": 120,
+        "currency": "EUR",
+        "period": "noche"
+      },
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "reducedMobility": true,
+        "notes": "Acceso adaptado a planta baja, ascensor a plantas superiores"
+      },
+      "ratings": [
+        {
+          "source": "google",
+          "rating": 4.8,
+          "reviewCount": 127
+        }
+      ],
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Hotel Rural Los Picos - Alojamiento en Arenas de Cabrales",
+        "description": "Hotel rural con vistas espectaculares a los Picos de Europa. Experiencia auténtica en el corazón de Asturias.",
+        "keywords": ["hotel rural asturias", "picos europa", "arenas cabrales", "alojamiento montaña"]
+      }
+    },
+    {
+      "id": "casa-rural-el-mirador",
+      "name": "Casa Rural El Mirador",
+      "type": "casa-rural",
+      "description": "Auténtica casa rural asturiana construida en piedra tradicional, rodeada de naturaleza y con vistas privilegiadas al valle. Perfecta para familias y grupos que buscan tranquilidad y contacto directo con la naturaleza. Dispone de jardín privado con barbacoa y zona de juegos para niños.",
+      "shortDescription": "Casa rural tradicional con jardín y barbacoa",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+          "alt": "Casa Rural El Mirador vista exterior",
+          "caption": "Construcción tradicional asturiana con jardín"
+        }
+      ],
+      "location": {
+        "address": "Barrio La Vega, s/n, 33550 Cangas de Onís, Asturias",
+        "coordinates": {
+          "lat": 43.3528,
+          "lng": -5.1269
+        },
+        "municipality": "cangas-de-onis"
+      },
+      "contact": {
+        "phone": "+34 985 789 012",
+        "email": "reservas@casaruralmirador.es",
+        "website": "https://casaruralmirador.es"
+      },
+      "amenities": ["wifi", "parking", "garden", "barbecue", "fireplace", "kitchen"],
+      "services": [
+        "Casa completa con cocina equipada",
+        "Jardín privado con mobiliario exterior",
+        "Barbacoa de piedra tradicional",
+        "Chimenea en salón principal",
+        "Juegos tradicionales asturianos"
+      ],
+      "capacity": 8,
+      "rooms": 4,
+      "priceRange": {
+        "min": 100,
+        "max": 150,
+        "currency": "EUR",
+        "period": "noche"
+      },
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "reducedMobility": false,
+        "notes": "Casa de dos plantas, sin adaptaciones especiales"
+      },
+      "ratings": [
+        {
+          "source": "booking",
+          "rating": 4.6,
+          "reviewCount": 89
+        }
+      ],
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Casa Rural El Mirador - Alquiler completo en Cangas de Onís",
+        "description": "Casa rural tradicional para 8 personas con jardín y barbacoa. Perfecto para familias en la naturaleza asturiana.",
+        "keywords": ["casa rural asturias", "alquiler completo", "cangas onis", "familia"]
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "ruta-del-alba",
+      "name": "Ruta del Alba",
+      "slug": "ruta-del-alba",
+      "type": "senderismo",
+      "difficulty": "moderada",
+      "description": "Una de las rutas más espectaculares de Asturias, que discurre por las impresionantes foces del río Alba. El sendero, perfectamente señalizado, ofrece vistas únicas de cascadas, pozas de aguas cristalinas y formaciones rocosas esculpidas por milenios de erosión. La ruta incluye varios puentes colgantes que añaden emoción al recorrido.",
+      "shortDescription": "Espectacular recorrido por las foces del río Alba",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg",
+          "alt": "Foces del río Alba con vegetación exuberante",
+          "caption": "Las impresionantes foces del río Alba"
+        }
+      ],
+      "distance": 12.5,
+      "duration": 240,
+      "elevation": 350,
+      "startPoint": {
+        "name": "Soto de Sajambre",
+        "coordinates": {
+          "lat": 43.1558,
+          "lng": -4.9367
+        },
+        "description": "Parking habilitado en la entrada del pueblo"
+      },
+      "endPoint": {
+        "name": "Puente de los Amuesos",
+        "coordinates": {
+          "lat": 43.1789,
+          "lng": -4.9156
+        },
+        "description": "Zona de descanso con mesas de picnic"
+      },
+      "waypoints": [
+        {
+          "name": "Cascada del Alba",
+          "coordinates": {
+            "lat": 43.1623,
+            "lng": -4.9278
+          },
+          "description": "Primera cascada importante del recorrido"
+        },
+        {
+          "name": "Puente Colgante",
+          "coordinates": {
+            "lat": 43.1701,
+            "lng": -4.9198
+          },
+          "description": "Puente colgante sobre la foz"
+        }
+      ],
+      "accessibility": {
+        "wheelchairAccessible": false,
+        "reducedMobility": false,
+        "notes": "Sendero con desniveles pronunciados y terreno irregular"
+      },
+      "familyFriendly": true,
+      "petFriendly": true,
+      "season": ["primavera", "verano", "otono"],
+      "equipment": [
+        "Calzado de montaña",
+        "Ropa impermeable",
+        "Agua abundante",
+        "Cámara de fotos",
+        "Bastones de senderismo (opcional)"
+      ],
+      "safety": {
+        "warnings": [
+          "Cuidado con las piedras húmedas cerca del río",
+          "Prohibido el baño en algunas zonas por corrientes",
+          "Ruta puede estar cerrada por crecidas del río"
+        ],
+        "emergencyContacts": [
+          {
+            "service": "Emergencias Generales",
+            "phone": "112"
+          },
+          {
+            "service": "Guardia Civil SEPRONA",
+            "phone": "062"
+          }
+        ]
+      },
+      "municipality": "onis",
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Ruta del Alba - Senderismo por las Foces más Espectaculares",
+        "description": "Descubre la Ruta del Alba, un sendero moderado de 12 km que recorre las impresionantes foces del río Alba en Asturias.",
+        "keywords": ["ruta del alba", "senderismo asturias", "foces", "río alba", "puentes colgantes"]
+      }
+    },
+    {
+      "id": "lagos-de-covadonga",
+      "name": "Lagos de Covadonga",
+      "slug": "lagos-de-covadonga",
+      "type": "senderismo",
+      "difficulty": "facil",
+      "description": "Ruta circular por los famosos Lagos de Covadonga, uno de los símbolos más reconocibles de Asturias. El recorrido une el Lago Enol y el Lago Ercina a través de senderos bien marcados, ofreciendo vistas espectaculares de los Picos de Europa. Ideal para familias y como primera toma de contacto con la montaña asturiana.",
+      "shortDescription": "Ruta circular por los iconicos Lagos de Covadonga",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1561020/pexels-photo-1561020.jpeg",
+          "alt": "Lagos de Covadonga con los Picos de Europa al fondo",
+          "caption": "Vista panorámica de los Lagos de Covadonga"
+        }
+      ],
+      "distance": 6.2,
+      "duration": 120,
+      "elevation": 180,
+      "startPoint": {
+        "name": "Aparcamiento Lagos de Covadonga",
+        "coordinates": {
+          "lat": 43.2628,
+          "lng": -4.9858
+        },
+        "description": "Parking de pago, acceso en coche hasta los lagos"
+      },
+      "endPoint": {
+        "name": "Aparcamiento Lagos de Covadonga",
+        "coordinates": {
+          "lat": 43.2628,
+          "lng": -4.9858
+        },
+        "description": "Vuelta al punto de inicio"
+      },
+      "waypoints": [
+        {
+          "name": "Lago Enol",
+          "coordinates": {
+            "lat": 43.2618,
+            "lng": -4.9878
+          },
+          "description": "Primer lago del recorrido, con zona de descanso"
+        },
+        {
+          "name": "Mirador de Ordiales",
+          "coordinates": {
+            "lat": 43.2645,
+            "lng": -4.9823
+          },
+          "description": "Vistas panorámicas de los Picos de Europa"
+        },
+        {
+          "name": "Lago Ercina",
+          "coordinates": {
+            "lat": 43.2678,
+            "lng": -4.9798
+          },
+          "description": "Segundo lago, ideal para picnic familiar"
+        }
+      ],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "reducedMobility": true,
+        "notes": "Sendero adaptado en gran parte del recorrido, con pasarelas de madera"
+      },
+      "familyFriendly": true,
+      "petFriendly": true,
+      "season": ["primavera", "verano", "otono", "invierno"],
+      "equipment": [
+        "Calzado cómodo",
+        "Ropa de abrigo (variable según temporada)",
+        "Agua",
+        "Protección solar",
+        "Cámara de fotos"
+      ],
+      "safety": {
+        "warnings": [
+          "Posible presencia de niebla densa",
+          "Temperaturas más bajas que en el valle",
+          "Acceso en coche puede estar restringido en temporada alta"
+        ],
+        "emergencyContacts": [
+          {
+            "service": "Centro de Visitantes",
+            "phone": "+34 985 848 614"
+          }
+        ]
+      },
+      "municipality": "cangas-de-onis",
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Lagos de Covadonga - Ruta Familiar en los Picos de Europa",
+        "description": "Ruta fácil y accesible por los famosos Lagos de Covadonga. Perfecta para familias y todos los niveles.",
+        "keywords": ["lagos covadonga", "senderismo fácil", "familia", "picos europa", "asturias"]
+      }
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "sidreria-el-guelu",
+      "name": "Sidrería El Güelu",
+      "slug": "sidreria-el-guelu",
+      "cuisine": ["asturiana", "tradicional"],
+      "description": "Auténtica sidrería asturiana que mantiene viva la tradición del escanciado perfecto. Especializada en quesos de Cabrales DOP y embutidos artesanales de la región. El ambiente es familiar y acogedor, con decoración tradicional que incluye útiles de la vida rural asturiana. Los propietarios, tercera generación de la familia, comparten historias y tradiciones con cada visitante.",
+      "shortDescription": "Sidrería tradicional especializada en quesos de Cabrales",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg",
+          "alt": "Interior tradicional de sidrería asturiana",
+          "caption": "Ambiente auténtico de sidrería tradicional"
+        }
+      ],
+      "location": {
+        "address": "Plaza del Castañedo, 3, 33554 Arenas de Cabrales, Asturias",
+        "coordinates": {
+          "lat": 43.3445,
+          "lng": -4.8342
+        },
+        "municipality": "cabrales"
+      },
+      "contact": {
+        "phone": "+34 985 456 789",
+        "email": "info@sidreriaelguelu.es",
+        "website": "https://sidreriaelguelu.es"
+      },
+      "hours": {
+        "monday": {"open": "13:00", "close": "16:00"},
+        "tuesday": {"open": "13:00", "close": "16:00"},
+        "wednesday": {"closed": true},
+        "thursday": {"open": "13:00", "close": "16:00"},
+        "friday": {"open": "13:00", "close": "23:00"},
+        "saturday": {"open": "13:00", "close": "23:00"},
+        "sunday": {"open": "13:00", "close": "16:00"}
+      },
+      "priceRange": {
+        "min": 25,
+        "max": 35,
+        "currency": "EUR",
+        "period": "persona"
+      },
+      "specialties": [
+        "Queso de Cabrales DOP",
+        "Chorizo a la sidra",
+        "Fabada asturiana",
+        "Tortos de maíz",
+        "Sidra natural escanciada"
+      ],
+      "dietaryOptions": ["vegetariano"],
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "notes": "Acceso adaptado y baño accesible"
+      },
+      "ratings": [
+        {
+          "source": "tripadvisor",
+          "rating": 4.7,
+          "reviewCount": 324
+        }
+      ],
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Sidrería El Güelu - Auténtica Gastronomía Asturiana en Cabrales",
+        "description": "Sidrería tradicional especializada en queso de Cabrales DOP y sidra natural. Experiencia gastronómica auténtica.",
+        "keywords": ["sidrería asturias", "queso cabrales", "sidra natural", "gastronomía tradicional"]
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "festival-folk-cangas",
+      "title": "Festival de Música Folk de Cangas",
+      "slug": "festival-folk-cangas-2024",
+      "description": "Décima edición del Festival de Música Tradicional Asturiana, que reúne a los mejores intérpretes de música folk de la región. El festival incluye conciertos al aire libre, talleres de instrumentos tradicionales, exhibiciones de baile asturiano y un mercado de artesanía local. Una celebración única de la cultura y tradiciones asturianas.",
+      "shortDescription": "Festival de música tradicional asturiana con conciertos y talleres",
+      "category": "cultura-musica",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg",
+          "alt": "Concierto de música tradicional asturiana",
+          "caption": "Actuación en el Festival Folk de Cangas"
+        }
+      ],
+      "startDate": "2024-03-20T18:00:00Z",
+      "endDate": "2024-03-22T23:00:00Z",
+      "location": {
+        "name": "Plaza del Ayuntamiento",
+        "address": "Plaza del Ayuntamiento, 33550 Cangas de Onís, Asturias",
+        "coordinates": {
+          "lat": 43.3472,
+          "lng": -5.1269
+        },
+        "municipality": "cangas-de-onis"
+      },
+      "organizer": "Ayuntamiento de Cangas de Onís",
+      "contact": {
+        "phone": "+34 985 849 005",
+        "email": "cultura@cangasdeonis.es",
+        "website": "https://festivalfolkcangas.es"
+      },
+      "price": {
+        "type": "gratis",
+        "notes": "Entrada libre a todos los conciertos y actividades"
+      },
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "signLanguage": true,
+        "notes": "Zona reservada para personas con movilidad reducida"
+      },
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Festival Folk Cangas 2024 - Música Tradicional Asturiana",
+        "description": "Décima edición del Festival de Música Folk en Cangas de Onís. Conciertos gratuitos y talleres tradicionales.",
+        "keywords": ["festival folk", "música tradicional", "cangas onis", "cultura asturiana"]
+      }
+    },
+    {
+      "id": "feria-queso-cabrales",
+      "title": "Feria del Queso de Cabrales",
+      "slug": "feria-queso-cabrales-2024",
+      "description": "Feria anual dedicada al famoso Queso de Cabrales DOP, donde los mejores queseros de la región presentan sus productos. El evento incluye cata dirigida por expertos, demostración del proceso tradicional de elaboración en cuevas naturales, concurso del mejor queso y maridajes con sidra natural. Una oportunidad única para conocer los secretos de este queso de fama mundial.",
+      "shortDescription": "Feria anual del famoso Queso de Cabrales DOP",
+      "category": "gastronomia",
+      "images": [
+        {
+          "url": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+          "alt": "Exposición de quesos de Cabrales",
+          "caption": "Muestra de quesos artesanales en la feria"
+        }
+      ],
+      "startDate": "2024-04-15T10:00:00Z",
+      "endDate": "2024-04-15T18:00:00Z",
+      "location": {
+        "name": "Centro del pueblo de Arenas",
+        "address": "Plaza Principal, 33554 Arenas de Cabrales, Asturias",
+        "coordinates": {
+          "lat": 43.3445,
+          "lng": -4.8342
+        },
+        "municipality": "cabrales"
+      },
+      "organizer": "Consejo Regulador DOP Cabrales",
+      "contact": {
+        "phone": "+34 985 845 288",
+        "email": "info@quesocabrales.org"
+      },
+      "price": {
+        "type": "cata",
+        "adult": 15,
+        "child": 8,
+        "currency": "EUR",
+        "notes": "Incluye degustación de 6 variedades diferentes"
+      },
+      "capacity": 200,
+      "accessibility": {
+        "wheelchairAccessible": true,
+        "notes": "Zona de cata adaptada para sillas de ruedas"
+      },
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Feria del Queso de Cabrales 2024 - Degustación y Tradición",
+        "description": "Feria anual del Queso de Cabrales DOP. Cata dirigida, demostraciones y concurso del mejor queso.",
+        "keywords": ["queso cabrales", "feria gastronómica", "dop", "cata quesos", "arenas cabrales"]
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": "nueva-senalizacion-ruta-alba",
+      "title": "Nueva señalización interpretativa en la Ruta del Alba",
+      "slug": "nueva-senalizacion-ruta-alba-2024",
+      "excerpt": "Se ha completado la instalación de nueva señalización interpretativa a lo largo de todo el recorrido de la Ruta del Alba, incluyendo información sobre flora, fauna y geología de la zona.",
+      "content": "El Principado de Asturias, en colaboración con el ayuntamiento de Onís, ha finalizado la instalación de un sistema completo de señalización interpretativa en la Ruta del Alba. Este proyecto, financiado con fondos europeos del programa PRTR, incluye 15 paneles informativos distribuidos estratégicamente a lo largo del recorrido.\n\nLos nuevos paneles ofrecen información detallada sobre:\n- Flora y fauna autóctona de las foces\n- Formación geológica de las gargantas\n- Historia de la explotación tradicional del río\n- Consejos de seguridad y conservación\n\nLa señalización está disponible en español, inglés y asturiano, y cuenta con códigos QR que enlazan a contenido multimedia adicional, incluyendo audioguías adaptadas para personas con discapacidad visual.",
+      "author": "Redacción Montaña Central",
+      "publishDate": "2024-01-15T10:00:00Z",
+      "category": "infraestructuras",
+      "tags": ["ruta del alba", "señalización", "turismo accesible", "PRTR"],
+      "image": {
+        "url": "https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg",
+        "alt": "Nueva señalización en la Ruta del Alba",
+        "caption": "Panel interpretativo instalado en las foces del río Alba"
+      },
+      "featured": true,
+      "active": true,
+      "seoMeta": {
+        "title": "Nueva señalización en la Ruta del Alba mejora la experiencia turística",
+        "description": "Instalados 15 paneles interpretativos en la Ruta del Alba con información en tres idiomas y contenido accesible.",
+        "keywords": ["ruta del alba", "señalización turística", "accesibilidad", "interpretación ambiental"]
+      }
+    }
+  ]
+}

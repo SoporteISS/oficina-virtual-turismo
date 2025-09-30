@@ -1,0 +1,167 @@
+{
+  "nav": {
+    "main": "Navegación principal",
+    "home": "Inicio",
+    "accommodation": "Alojamientos",
+    "activities": "Actividades",
+    "routes": "Rutas",
+    "gastronomy": "Gastronomía",
+    "events": "Eventos",
+    "map": "Mapa",
+    "contact": "Contacto",
+    "toggleMenu": "Alternar menú",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Descubre la Montaña Central de Asturias",
+    "subtitle": "Un destino único donde la naturaleza, el patrimonio y la tradición se encuentran en perfecta armonía",
+    "backgroundAlt": "Vista panorámica de las montañas de Asturias",
+    "cta": {
+      "explore": "Explorar Destino",
+      "map": "Ver Mapa"
+    },
+    "stats": {
+      "municipalities": "Municipios",
+      "routes": "Rutas",
+      "accommodations": "Alojamientos",
+      "activities": "Actividades"
+    }
+  },
+  "quickActions": {
+    "title": "¿Qué te interesa hacer?",
+    "subtitle": "Explora todo lo que la Montaña Central de Asturias tiene para ofrecerte",
+    "accommodation": "Alojamientos",
+    "accommodationDesc": "Encuentra el lugar perfecto para tu estancia",
+    "routes": "Rutas de Senderismo",
+    "routesDesc": "Descubre senderos únicos y paisajes espectaculares",
+    "gastronomy": "Gastronomía",
+    "gastronomyDesc": "Sabores auténticos de la tradición asturiana",
+    "activities": "Actividades",
+    "activitiesDesc": "Experiencias únicas en plena naturaleza",
+    "events": "Eventos",
+    "eventsDesc": "Fiestas, cultura y tradiciones locales",
+    "map": "Mapa Interactivo",
+    "mapDesc": "Localiza todos los recursos y servicios"
+  },
+  "weather": {
+    "title": "Condiciones Meteorológicas",
+    "now": "Ahora",
+    "feelsLike": "Sensación térmica",
+    "wind": "Viento",
+    "humidity": "Humedad",
+    "forecast": "Próximos días",
+    "today": "Hoy",
+    "tomorrow": "Mañana",
+    "day-after": "Pasado mañana",
+    "recommendation": "Condiciones ideales para actividades al aire libre"
+  },
+  "chatbot": {
+    "title": "Asistente Turístico",
+    "toggle": "Abrir chat",
+    "close": "Cerrar chat",
+    "placeholder": "Escribe tu consulta...",
+    "send": "Enviar",
+    "welcome": "¡Hola! Soy tu asistente turístico virtual. ¿En qué puedo ayudarte hoy?",
+    "actionExecuted": "Ejecutando acción: {{action}}",
+    "suggestions": {
+      "routes": "¿Qué rutas de senderismo recomiendas?",
+      "accommodation": "Busco alojamiento",
+      "events": "¿Qué eventos hay próximamente?",
+      "weather": "¿Cómo está el tiempo?",
+      "easyRoutes": "Rutas fáciles",
+      "difficultRoutes": "Rutas difíciles",
+      "familyRoutes": "Rutas familiares",
+      "ruralHotels": "Hoteles rurales",
+      "apartments": "Apartamentos",
+      "camping": "Campings",
+      "weekendWeather": "Tiempo fin de semana",
+      "clothingAdvice": "¿Qué ropa llevar?",
+      "contact": "Información de contacto"
+    },
+    "responses": {
+      "routes": "Te recomiendo varias rutas según tu nivel. ¿Prefieres algo fácil, moderado o desafiante?",
+      "accommodation": "Tenemos excelentes opciones de alojamiento en toda la zona. ¿Buscas algo específico?",
+      "events": "Hay varios eventos interesantes próximamente. ¿Te interesa alguna temática en particular?",
+      "weather": "Las condiciones actuales son favorables para actividades al aire libre. ¿Planeas alguna actividad específica?",
+      "default": "Entiendo que buscas información sobre la Montaña Central de Asturias. ¿Puedes ser más específico sobre qué te interesa?"
+    },
+    "actions": {
+      "viewRoutes": "Ver rutas",
+      "viewAccommodation": "Ver alojamientos",
+      "viewEvents": "Ver eventos"
+    }
+  },
+  "footer": {
+    "description": "Descubre la esencia de Asturias en la Montaña Central, donde cada sendero cuenta una historia.",
+    "quickLinks": "Enlaces rápidos",
+    "legal": "Legal",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad",
+    "accessibility": "Accesibilidad",
+    "cookies": "Política de Cookies",
+    "rights": "Todos los derechos reservados",
+    "euFunding": "Proyecto financiado por la Unión Europea - NextGenerationEU"
+  },
+  "accessibility": {
+    "skipToContent": "Saltar al contenido principal"
+  },
+  "cookies": {
+    "title": "Configuración de Cookies",
+    "description": "Utilizamos cookies para mejorar tu experiencia de navegación y ofrecerte contenido personalizado. Puedes aceptar todas las cookies o personalizar tus preferencias.",
+    "acceptAll": "Aceptar todas",
+    "rejectAll": "Rechazar todas",
+    "customize": "Personalizar",
+    "settings": "Configuración de Cookies",
+    "close": "Cerrar",
+    "back": "Volver",
+    "required": "Obligatorias",
+    "savePreferences": "Guardar preferencias",
+    "cancel": "Cancelar",
+    "necessary": {
+      "title": "Cookies Necesarias",
+      "description": "Esenciales para el funcionamiento básico del sitio web. No se pueden desactivar."
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a entender cómo los visitantes interactúan con el sitio web."
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas."
+    },
+    "personalization": {
+      "title": "Cookies de Personalización",
+      "description": "Permiten recordar tus preferencias para ofrecerte una experiencia personalizada."
+    }
+  },
+  "accessibility": {
+    "toolbar": {
+      "title": "Herramientas de Accesibilidad",
+      "highContrast": "Alto contraste",
+      "largeText": "Texto grande",
+      "fontSize": "Tamaño de fuente",
+      "lineHeight": "Espaciado de línea",
+      "reducedMotion": "Reducir animaciones",
+      "keyboardNavigation": "Navegación mejorada",
+      "audioDescriptions": "Descripciones de audio",
+      "reset": "Restablecer configuración"
+    },
+    "announcements": {
+      "settingChanged": "Configuración de accesibilidad actualizada",
+      "pageLoaded": "Página cargada",
+      "navigationChanged": "Navegación actualizada"
+    }
+  },
+  "kiosk": {
+    "title": "Montaña Central de Asturias",
+    "welcome": "Bienvenido a la Montaña Central de Asturias",
+    "subtitle": "Explora todo lo que este destino único tiene para ofrecerte",
+    "selectOption": "¿Qué te gustaría descubrir?",
+    "touchToExplore": "Toca cualquier opción para comenzar",
+    "inactivity": {
+      "title": "¿Sigues ahí?",
+      "message": "La pantalla volverá al inicio en:",
+      "continue": "Continuar Explorando"
+    }
+  }
+}
